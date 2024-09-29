@@ -19,7 +19,7 @@
 ![Ожидаемый результат](https://github.com/AskaKolbaska/Security/blob/7c72203e7184392372bafbbeeed6c82c6030a443/img/lab2-1.png)
 
 2. В случае успешного запуска можно наблюдать процесс брутфорса
-![Ожидаемый результат](https://storage.yandexcloud.net/shesterikov/CS_24_24/CS_2_2.png)
+
 3. В случае нахождения пароля Hydra отобразит сообщение с найденным паролем
 ![Ожидаемый результат](https://github.com/AskaKolbaska/Security/blob/150838a2bf6f5a8948faa042391c733782fa44fb/img/lab2-2.png)
 4. При помощи ssh выполните подключение к серверу, указав найденный пароль
