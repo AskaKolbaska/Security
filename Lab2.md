@@ -16,7 +16,7 @@
 1. Запустите Hydra с заданными параметрами
 `hydra -l user -V -x 4:4:Aa1 -s 22 -I  62.109.19.160 ssh`
 При необходимости внесите в параметры корректировки
-![Ожидаемый результат](img/лаб 2. 1.png)
+![Ожидаемый результат](https://raw.githubusercontent.com/AskaKolbaska/Security/main/img/лаб 2. 1.png)
 
 2. В случае успешного запуска можно наблюдать процесс брутфорса
 ![Ожидаемый результат](https://storage.yandexcloud.net/shesterikov/CS_24_24/CS_2_2.png)
