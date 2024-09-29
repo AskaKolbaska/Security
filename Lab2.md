@@ -25,7 +25,7 @@
 4. При помощи ssh выполните подключение к серверу, указав найденный пароль
 
 `ssh user@62.109.19.160`
-![Ожидаемый результат](https://storage.yandexcloud.net/shesterikov/CS_24_24/CS_2_4.png)
+![Ожидаемый результат](https://github.com/AskaKolbaska/Security/blob/a03173bfd337b87f6420f4f19d0a8a63105b03a7/img/lab2-4.png)
 5. Выполните перемещение между директориями и при помощи команды `cat` отобразите содержимое текстового файла, представленного в директории `/home` 
 ![Ожидаемый результат](https://storage.yandexcloud.net/shesterikov/CS_24_24/CS_2_5.png)
 
