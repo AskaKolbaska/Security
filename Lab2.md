@@ -32,9 +32,8 @@
 
     ![Ожидаемый результат](https://github.com/AskaKolbaska/Security/blob/a03173bfd337b87f6420f4f19d0a8a63105b03a7/img/lab2-4.png)
 5. Выполните перемещение между директориями и при помощи команды `cat` отобразите содержимое текстового файла, представленного в директории `/home` 
-![Ожидаемый результат]
 
-    (https://github.com/AskaKolbaska/Security/blob/bfc724dde8a7e1337f3cb3be176c3d1bd13b43bf/img/lab2-3.png)
+    ![Ожидаемый результат](https://github.com/AskaKolbaska/Security/blob/bfc724dde8a7e1337f3cb3be176c3d1bd13b43bf/img/lab2-3.png)
 
 ### Контрольные вопросы:
 1. Что такое SSH?
